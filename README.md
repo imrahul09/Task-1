@@ -8,9 +8,9 @@ This is a **Basic portfolio  page** built using **HTML, CSS, and JavaScript**. I
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3 (Flexbox)
-- JavaScript (Vanilla)
+- HTML
+- CSS3 
+- JavaScript 
 
 ---
 
